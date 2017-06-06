@@ -37,4 +37,11 @@ DrAS_mut_AS_trans.txt: The trans mutation-alternative splicing events identified
 
 DrAS_mut_AS_cis.txt: The cis mutation-alternative splicing events identified by DrAS-Net;
 
+If you have any question, please contact:
+
+Nidhi Sahni: nsahni@mdanderson.org;
+
+M. Madan Babu: madanm@mrc-lmb.cam.ac.uk
+
+Song Yi: syi2@mdanderson.org
 
