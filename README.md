@@ -21,7 +21,7 @@ CHOL_sample_mut_code.txt: The mutations in each cancer patient;
 
 network.txt: Two columns represent the interacting genes in protein-protein interaction network;
 
-Output files:
+Example output files:
 
 Person_AS_event.txt: The perturbed alternative splicing events in each cancer patient;
 
